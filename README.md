@@ -24,10 +24,10 @@ jupyter notebook
 
 ## Training
 
-To begin training, open `train.ipynb` and step through the existing code blocks. This will train a neural net controller for the Baoding challenge using the PGPE algorithm with the ClipUp optimizer. On a 60 CPU core machine, this will take about 96 hours. The network has a slightly custom architecture that you can find in `policy.py`. From here you can easily start customizing the policy, reward function, learning algorithm or optimizer. 
+To begin training, open `train.ipynb` and step through the existing code blocks. This will train a neural net controller for the Baoding challenge using the PGPE algorithm with the ClipUp optimizer. On a 60 CPU core machine, this will take about 96 hours. The network has a slightly custom architecture that you can find in `policy.py`. From here you can easily start customizing the policy, reward function, learning algorithm or optimizer.
 
 ## Pre-trained policy
-This repository includes a pre-trained policy in the file `agent/policies/learned_policy_boading.pkl` that obtains a score of XX on the leaderboard. To visualize the behavior of this policy, see the next section. 
+This repository includes a pre-trained policy in the file `agent/policies/learned_policy_boading.pkl` that obtains a score of XX on the leaderboard. To visualize the behavior of this policy, see the next section.
 
 ## Visualization
 
@@ -48,7 +48,7 @@ conda activate myosuite-submit
 
 ## Contact Us
 
-If you have any questions or need any help, feel free to join our [slack](https://join.slack.com/t/evotorch/shared_invite/zt-1gglttpsz-N6K60U~9av_~tfF6tkN7CA)! 
+If you have any questions or need any help, feel free to join our [slack](https://join.slack.com/t/evotorch/shared_invite/zt-1gglttpsz-N6K60U~9av_~tfF6tkN7CA)!
 
 ## Authors
 
