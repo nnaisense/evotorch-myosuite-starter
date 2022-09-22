@@ -16,7 +16,7 @@ This repository contains resources implementing an [EvoTorch](https://evotorch.a
 The easiest way to use these resources is to have [conda](https://docs.conda.io/en/latest/miniconda.html) installed. Then you can run:
 
 ```bash
-git clone git@github.com:nnaisense/evotorch-myosuite-starter.git
+git clone https://github.com/nnaisense/evotorch-myosuite-starter
 cd evotorch-myosuite-starter
 conda env create -f env.yml
 conda activate myosuite-challenge
